@@ -1,0 +1,15 @@
+{
+  "name": "appollusclustering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "liveme-api": "^1.2.6",
+    "path": "^0.12.7"
+  }
+}
